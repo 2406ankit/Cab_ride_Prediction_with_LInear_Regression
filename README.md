@@ -1,2 +1,2 @@
 # Cab_ride_Prediction_with_LInear_Regression
-Linear Regression with EDA 
+Linear Regression with Exploratory Data Analysis 
